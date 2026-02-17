@@ -30,7 +30,7 @@ body{
    padding: 10px;
    background-color: var(--card-BG);
   border-radius: 10px;
-    box-shadow: 19px 15px 30px -4px  black,-19px -22px 30px -4px  black;
+  box-shadow: 19px 15px 30px -4px  black,-19px -22px 30px -4px  black;
 
 
 
@@ -132,4 +132,5 @@ body{
      width: 77%;   
 }
 }
+
 
